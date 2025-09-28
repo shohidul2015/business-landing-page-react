@@ -20,7 +20,7 @@ const Hero = () => {
           variants={textVariant(0.3)}
           initial="hidden"
           whileInView="show"
-          className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight"
+          className="text-4xl md:text-4xl lg:text-5xl font-bold leading-tight"
         >
           We boost the growth for{' '}
           <span className="text-blue-600 relative inline-block">
